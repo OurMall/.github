@@ -18,3 +18,4 @@ El propósito de esta organización es la gestión de código fuente del proyect
 - [Back-end - Python](https://github.com/OurMall/om-oauth2)
 - [Back-end - C#](https://github.com/OurMall/om-cash-system)
 - [Documentación](https://github.com/OurMall/om-docs)
+- [Video promocional](https://youtu.be/wFJ1biVc9Y8)
